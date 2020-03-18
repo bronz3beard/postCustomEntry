@@ -1,0 +1,13 @@
+{
+  "id": "postCustomEntry",
+  "name": "postCustomEntry",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Boolean",
+    "Asset",
+    "Entry",
+    "Text",
+    "Object"
+  ]
+}
